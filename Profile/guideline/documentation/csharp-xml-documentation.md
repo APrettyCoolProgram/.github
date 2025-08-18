@@ -1,6 +1,14 @@
-> Last updated August 3, 2025
+<!-- u250818 -->
 
-# APCP > Guidelines > Documentation > C# XML Documentation
+[[🏠︎](../../README.md)] ❬ [Tingen Manuals](../README.md) ❬ [Tingen DevDeploy Manual](./README.md)
+
+
+<div align="center">
+
+# XML Documentation Guidelines
+
+</div>
+
 
 CONTENTS
 - [XML documentation guidelines](#xml-documentation-guidelines)
