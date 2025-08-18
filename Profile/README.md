@@ -1,4 +1,3 @@
 # A Pretty Cool Program
 
-* [Guidelines](./Profile/guide/README.md)
-* [How-to](./how/)
+* The [APCP Documentation Project](https://github.com/APrettyCoolProgram/apcp/tree/main/docproj)
