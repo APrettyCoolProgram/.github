@@ -1,4 +1,4 @@
 # A Pretty Cool Program
 
-* [Guidelines](./guideline/README.md)
-* [How-to](./how-to/)
+* [Guidelines](./Profile/guide/README.md)
+* [How-to](./how/)
