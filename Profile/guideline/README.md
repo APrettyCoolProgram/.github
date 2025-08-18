@@ -1,23 +1,20 @@
-# Development stuff
+[[🏠︎](https://github.com/APrettyCoolProgram)]
 
-## Guidelines
+# Guidelines
 
+## Development
 
+TBD
 
-# Development stuff
+## Documentation
 
-## Guidelines
+* [XML Documentation](./documentation/xml-documentation-for-csharp.md)
+* [Mermaid.js](./documentation/mermaid-js.md)
 
+## Project
 
+## Repository
 
+## Source code
 
-<!-- * [Development](/profile/guideline/development/README.md) -->
-* [Documentation](./guideline/)
-* [Projects](/profile/guideline/project/README.md)
-* [Repositories](/profile/guideline/repository/README.md)
-* [Source code](/profile/guideline/source-code/README.md)
->
-* [Documentation](./guideline/)
-* [Projects](/profile/guideline/project/README.md)
-* [Repositories](/profile/guideline/repository/README.md)
-* [Source code](/profile/guideline/source-code/README.md)
+[[🏠︎](https://github.com/APrettyCoolProgram)]
