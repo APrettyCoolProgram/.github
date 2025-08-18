@@ -1,7 +1,10 @@
 
 # A Pretty Cool Program
 
-### Guidelines
+## Guidelines
+
+
+
 
 <!-- * [Development](/profile/guideline/development/README.md) -->
 * [Documentation](/profile/guideline/documentation/README.md)
