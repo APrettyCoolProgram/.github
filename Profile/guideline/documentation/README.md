@@ -3,9 +3,14 @@
 
 <div align="center">
 
-  ![light-mode-logo](../../img/logo/apcp-logo-circle-256x256.png#gh-light-mode-only)
-  ![dark-mode-logo](../../img/logo/apcp-logo-circle-256x256.png#gh-dark-mode-only)
-  
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="../../img/logo/apcp-logo-circle-256x256.png">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../img/logo/apcp-logo-circle-256x256.png">
+</picture>
+
 </div>
 
 
