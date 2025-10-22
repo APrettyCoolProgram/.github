@@ -3,7 +3,7 @@
 	https://contributing.md/
 -->
 
-# Table of Contents
+#### Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
 - [Contributing](#contributing)
