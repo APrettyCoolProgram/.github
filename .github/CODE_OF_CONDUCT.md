@@ -1,6 +1,7 @@
-<!-- u240304 -->
-
-<!-- https://www.contributor-covenant.org/ -->
+<!--
+	u251022 -->
+	https://www.contributor-covenant.org/
+-->
 
 # Contributor Covenant Code of Conduct
 
