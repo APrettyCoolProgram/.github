@@ -11,6 +11,8 @@
 - [Suggesting Enhancements](#suggesting-enhancements)
 - [Improving The Documentation](#improving-the-documentation)
 
+***
+
 # Code of Conduct
 
 This project and everyone participating in it is governed by the
