@@ -25,7 +25,7 @@ This project and everyone participating in it is governed by the
 
 ## Reporting Bugs
 
-> Please do not report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <development@aprettycoolprogram.com>.
+> Please do not report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <github@aprettycoolprogram.com>.
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the project:
 
