@@ -1,5 +1,5 @@
 <!--
-	u251022 -->
+	u251022
 	https://www.contributor-covenant.org/
 -->
 
